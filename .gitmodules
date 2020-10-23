@@ -1,0 +1,3 @@
+[submodule "education-tool"]
+	path = education-tool
+	url = git@github.com:tomoino/education-tool.git
