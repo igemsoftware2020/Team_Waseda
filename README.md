@@ -1,2 +1,3 @@
 # Team_Waseda
-Team Waseda iGEM 2020
+チーム早稲田iGEM2020
+Education Tool Hera !
