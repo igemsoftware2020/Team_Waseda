@@ -1,5 +1,7 @@
-	on-tool
 path = education-tool
 	url = git@github.com:tomoino/education-tool.git
 path = iGEM2020WasedaWiki
         url = git@github.com:yamanashi-t/iGEM2020WasedaWiki.git
+[submodule "Team_Waseda"]
+	path = Team_Waseda
+	url = https://github.com/yamanashi-t/iGEM2020WasedaWiki.git
