@@ -5,3 +5,6 @@ path = iGEM2020WasedaWiki
 [submodule "Team_Waseda"]
 	path = Team_Waseda
 	url = https://github.com/yamanashi-t/iGEM2020WasedaWiki.git
+[submodule "iGEM2020WasedaWiki"]
+	path = iGEM2020WasedaWiki
+	url = https://github.com/yamanashi-t/iGEM2020WasedaWiki.git
